@@ -38,26 +38,26 @@ p, .btn{
 /*small*/
 @media (min-width:768px) {
     .container {
-        width: 750px;
+        width: 755px;
     }
 }
 /*meduim*/
 @media (min-width:992px) {
     .container {
-        width: 970px;
+        width: 975px;
     }
 }
 /*large*/
 @media (min-width:1200px) {
     .container {
-        width: 1170px;
+        width: 1180px;
     }
 }
 /*End Global Rules*/
 
 /*start header*/
 header {
-    margin: 50px 0;
+    margin: 60px 0 200px;
 }
 @media screen and (max-width:767px) {
     header {
@@ -97,7 +97,7 @@ header .btn {
 /*start main*/
 main {
     text-align: center;
-    margin: 130px 0;
+    margin: 150px 0;
 }
 @media screen and (max-width:767px) {
     main {
@@ -138,7 +138,7 @@ main .btn {
 }
 main .mockups {
     width: 80%;
-    margin: 120px auto 0;
+    margin: 170px auto 0;
 }
 @media screen and (max-width:767px) {
     main .mockups {
@@ -150,7 +150,7 @@ main .mockups {
 
 /*start section 1*/
 .section-1 {
-    margin: 0 0 60px;
+    margin: 0 0 100px;
 }
 .section-1 .container {
     display: flex;
@@ -199,7 +199,7 @@ main .mockups {
 
 /*start section 2*/
 .section-2 {
-    margin: 200px 0;
+    margin: 250px 0;
     position: relative;
     background-color:#F6FBFF;
     padding: 40px 0;
@@ -284,7 +284,7 @@ main .mockups {
     }
 }
 .section-2 img {
-    width: 45%;
+    width: 55%;
 }
 @media (max-width:767px) {
     .section-2 img {
@@ -297,7 +297,7 @@ main .mockups {
 
 /*start section 3*/
 .section-3 {
-    margin: 200px 0;
+    margin: 250px 0;
     position: relative;
     padding: 40px 0;
 }
@@ -318,7 +318,7 @@ main .mockups {
     }
 }
 .section-3 img {
-    width: 45%;
+    width: 55%;
 }
 @media (max-width:767px) {
     .section-3 img {
@@ -360,7 +360,7 @@ main .mockups {
 
 /*start section 4*/
 .section-4 {
-    margin: 200px 0;
+    margin: 250px 0;
     position: relative;
     background-color:#F6FBFF;
     padding: 40px 0;
@@ -441,7 +441,7 @@ main .mockups {
     }
 }
 .section-4 img {
-    width: 45%;
+    width: 55%;
 }
 @media (max-width:767px) {
     .section-4 img {
@@ -454,7 +454,7 @@ main .mockups {
 
 /*start section 5*/
 .section-5 {
-    margin: 250px 0;
+    margin: 300px 0;
     text-align: center;
 }
 .section-5 h2 {
@@ -477,7 +477,7 @@ main .mockups {
 
 /*start footer section*/
 .footer {
-    margin: 300px 0 0;
+    margin: 350px 0 0;
     position: relative;
     background-color: #00252E;
     color: rgb(195, 195, 195);
